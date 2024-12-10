@@ -5,3 +5,6 @@ print(mul(8, 5))#main
 
 def pr():
     print("Hello main")
+
+def pr():
+    print("Hello newbr")
